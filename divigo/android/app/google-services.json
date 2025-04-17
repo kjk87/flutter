@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118972223368",
+    "firebase_url": "https://divigo-2d970-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "divigo-2d970",
+    "storage_bucket": "divigo-2d970.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118972223368:android:1a85796f2f993078aab43d",
+        "android_client_info": {
+          "package_name": "com.root37.divigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118972223368-f6cb4735mav6fefp0qvlfk7g8anpsgha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.root37.divigo",
+            "certificate_hash": "1a4492e0eb5669fc00ff2c578b047400708ecf88"
+          }
+        },
+        {
+          "client_id": "118972223368-2eh65h60fqp243thdqtv09n73cpuhaab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAik5HVM043KztxbMzTzYCrJzL9W1PVRWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118972223368-2eh65h60fqp243thdqtv09n73cpuhaab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

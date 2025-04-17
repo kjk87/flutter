@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>118972223368-8cisvr21jhqqjjvc5833r9ofslabu0q6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.118972223368-8cisvr21jhqqjjvc5833r9ofslabu0q6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>118972223368-f6cb4735mav6fefp0qvlfk7g8anpsgha.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNC9DpK_GV61vuZ0dM-hj1auJtg8_krqw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>118972223368</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.root37.divigo</string>
+	<key>PROJECT_ID</key>
+	<string>divigo-2d970</string>
+	<key>STORAGE_BUCKET</key>
+	<string>divigo-2d970.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:118972223368:ios:5e30777c8a1834f8aab43d</string>
+	<key>DATABASE_URL</key>
+	<string>https://divigo-2d970-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
