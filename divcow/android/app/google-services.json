@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821001270624",
+    "project_id": "divcow-755ee",
+    "storage_bucket": "divcow-755ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821001270624:android:2aa784da161a557c299a05",
+        "android_client_info": {
+          "package_name": "com.root37.divcow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821001270624-ml0p1fe69904emrglddsgu1ajb2louk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.root37.divcow",
+            "certificate_hash": "01d1caf23609930262f5cc95ac7b5a883522567c"
+          }
+        },
+        {
+          "client_id": "821001270624-66ef4c1bv8suc68el7t9pd4bf167it9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1azMsfTQnVWjEIU9jItl55mU6U3m9RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821001270624-66ef4c1bv8suc68el7t9pd4bf167it9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
